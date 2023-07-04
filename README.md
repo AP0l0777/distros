@@ -1,4 +1,4 @@
-#Distros-Para-O-Termux
+# Distros Para O Termux
 <br/>
 shell-script desenvolvido para estudos
 altomatizando instalacoes de distros
