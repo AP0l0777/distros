@@ -2,7 +2,7 @@
 <br/>
 shell-script desenvolvido para estudos
 altomatizando instalacoes de distros
-como o ubuntu o debian o kali entre outras
+como o  ( ubuntu, debian, kali ) entre outras
 
 # comandos
 apt upgrade
