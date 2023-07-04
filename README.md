@@ -6,10 +6,15 @@ como o  ( ubuntu, debian, kali ) entre outras
 
 # comandos
 apt upgrade
+<br/>
 apt install git
+<br/>
 git clone https://github.com/AP0l0777/distros
+<br/>
 cd distros
+<br/>
 chmod a+x verific.sh
+<br/>
 bash verific.sh
 
 # assista o video
