@@ -18,4 +18,4 @@ chmod a+x verific.sh
 bash verific.sh
 
 # assista o video
-<a href="https://youtube.com/ap0l0777/distros"> Assistir O Video </a>
+<a href="https://youtube.com/shorts/znRJFB44gmA?feature=share3"> Assistir O Video </a>
